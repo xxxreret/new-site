@@ -1,0 +1,54 @@
+body {
+    background-image: url("fon.jpg");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}
+
+#layout {
+    width: 100%;
+    max-width: 1300px;
+	height:1000px;
+    margin: auto;
+    background-color: white;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 20px;
+    vertical-align: top;
+    border: solid 1px black;
+}
+
+.bookImage {
+    padding-right: 20px;
+}
+
+#header {
+    font-size: 30px;
+	text-align: center;
+}
+#menu {
+	text-align: center;
+	font-size: 15pt;
+}
+ul {
+    list-style-type: square; /* Квадратные маркеры */
+   }
+#footer {
+    text-align: center;
+}
+table {
+background: none;
+border: none;
+opacity: 0.8;
+}
+#text1 {
+	font-size: 20px;
+}
+#text2 {
+	font-size: 20px;
+}
+#text3 {
+	 font-size: 75px;
+	text-align: center;
+}
